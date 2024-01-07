@@ -1,1 +1,0 @@
-C:\Users\User\somesh_files\CUDA\Unique_index_calculationusingthreadidx_blockid_blockdim\x64\Debug\Unique_index_calculationusingthreadidx_blockid_blockdim.exe
